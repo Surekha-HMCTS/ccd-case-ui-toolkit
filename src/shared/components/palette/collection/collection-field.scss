@@ -1,10 +1,12 @@
 @import 'node_modules/govuk_frontend_toolkit/stylesheets/_typography';
 @import 'node_modules/govuk_frontend_toolkit/stylesheets/_colours.scss';
 
+
 .collection-field-table {
-  tr:first-child>td {
-    padding-top: 0;
-  }
+   tr>td { //change rc
+  //   //padding: 5px;
+     margin: 3px;
+   }
   tr:last-child>td {
     border-bottom: none;
   }
