@@ -9,14 +9,11 @@ import { ShowCondition } from '../../../directives';
 import {
   CaseEventData,
   CaseEventTrigger,
-  CaseField,
   CasePrintDocument,
   CaseView,
   ChallengedAccessRequest,
   SpecificAccessRequest,
   Draft,
-  FieldType,
-  FieldTypeEnum,
   RoleAssignmentResponse,
   RoleCategory,
   RoleRequestPayload
